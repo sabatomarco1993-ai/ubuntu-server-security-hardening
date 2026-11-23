@@ -1,0 +1,1 @@
+Configuration files are not included because the supplied archive contains screenshots only. Export sanitized configuration files from the VM before adding them. Never include private SSH keys or secrets.
